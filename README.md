@@ -1,4 +1,4 @@
-# matsuerb-logo
+# matsuerb-tshirt
 
 Matsue.rb's official T-shirt data for Matsue Ruby Kaigi 05.
 
